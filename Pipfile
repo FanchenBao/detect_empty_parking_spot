@@ -12,6 +12,7 @@ numpy = "*"
 scikit-learn = "*"
 scipy = "*"
 jupyterlab = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.8"

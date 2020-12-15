@@ -183,3 +183,5 @@ dmypy.json
 
 # Custom ignore
 video/*
+logs/*
+sandbox.*
