@@ -187,3 +187,4 @@ logs/*
 sandbox*.*
 data/*
 checkpoint/*
+temp/*
