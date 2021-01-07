@@ -30,4 +30,4 @@ For those interested, a more detailed write up is provided in the `doc/` folder.
 Yes, the video files are not uploaded as they can be acquired from YouTube.
 
 # Missing Data Folder?
-Yes, the data folder is not included because it contains not only the training data, but also the generated frames, which takes more than 1G. I have published the training data on Kaggle. So if you want to use my training data, you can access it from [here](https://www.kaggle.com/fanchenbao/parking-spots).
+The data, including training data and sample frames from the video, is shared on [Kaggle](https://www.kaggle.com/fanchenbao/parking-spots). You can read more about how to use the data there.
